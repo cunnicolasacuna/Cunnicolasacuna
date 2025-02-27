@@ -4,7 +4,7 @@
 
 📍 **Ubicación:** Ibagué, Tolima, Colombia  
 📧 **Correo:** [nicolas.acunar@cun.edu.co](mailto:nicolas.acunar@cun.edu.co)  
-🔗 **LinkedIn:** [linkedin.com/in/davidortegacadena](https://linkedin.com/in/davidortegacadena)
+🔗 **LinkedIn:** [(https://github.com/cunnicolasacuna)](https://github.com/cunnicolasacuna)
 
 ---
 
@@ -41,5 +41,5 @@ FORMATIVOS
 ## 📫 Contacto
 📍 **Ubicación:** Ibagué, Tolima, Colombia  
 📧 **Correo:** [nicolas.acunar@cun.edu.co](mailto:nicolas.acunar@cun.edu.co)  
-🔗 **LinkedIn:** [linkedin.com/in/davidortegacadena](https://linkedin.com/in/davidortegacadena)
+🔗 **LinkedIn:** [https://github.com/cunnicolasacuna](https://github.com/cunnicolasacuna)
 
