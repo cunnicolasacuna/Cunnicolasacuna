@@ -37,6 +37,7 @@ Soy una persona responsable, honesta y respetuosa, con un fuerte compromiso con 
 📍 **Ubicación:** Ibagué, Tolima, Colombia  
 📧 **Correo:** [nicolas.acunar@cun.edu.co](mailto:nicolas.acunar@cun.edu.co)  
 🔗 **GitHub:** [github.com/cunnicolasacuna](https://github.com/cunnicolasacuna)
+
 📱 **WhatsApp:** [323 3904519](tel:3233904519)
 
 ---
