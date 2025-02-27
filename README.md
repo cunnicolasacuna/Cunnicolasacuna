@@ -55,7 +55,7 @@ Soy una persona responsable, honesta y respetuosa, con un fuerte compromiso con 
 
 El draft de la NBA es un evento anual en el que los equipos de la liga seleccionan jugadores jóvenes para incorporarlos a sus plantillas. Generalmente, los jugadores elegibles provienen de universidades estadounidenses, ligas internacionales o son menores de 19 años que cumplen con los requisitos de la NBA.
 
-![Draft de la NBA](https://link.nba.com/Draft-Preview)
+![Draft de la NBA]([https://link.nba.com/Draft-Preview](https://media.gettyimages.com/id/1500699765/es/foto/new-york-new-york-the-top-prospects-pose-on-stage-prior-to-the-first-round-of-the-2023-nba.jpg?s=612x612&w=gi&k=20&c=42gzy5FQarhUMxFqRPgGDGGGI6aDh0Hw8vnIPnf-Wos=))
 
 El proceso comienza con la lotería del draft, donde los equipos que no clasificaron a los playoffs tienen más probabilidades de obtener una selección temprana. Este sistema busca equilibrar la competitividad de la liga, permitiendo que los equipos más débiles adquieran a los jugadores más prometedores. La lotería determina las tres primeras selecciones, mientras que el resto se asigna según el récord de la temporada anterior, de peor a mejor.
 
