@@ -47,7 +47,7 @@ Soy una persona responsable, honesta y respetuosa, con un fuerte compromiso con 
 | Nombre                  | Usuario de GitHub                           |
 |----------               |---------------------------------------------|
 | Jordi Gallego Lugo      | https://github.com/Jordigallego/Jordigallego|
-| Jeferson Stiven Ducuara |(https://github.com/Jefersonducua/Jefersondu)|
+| Jeferson Stiven Ducuara | https://github.com/Jefersonducua/Jefersondu |
 
 ## 📝 Ensayo sobre
 
