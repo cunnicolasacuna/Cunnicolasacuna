@@ -6,11 +6,6 @@ Soy una persona responsable, honesta y respetuosa, con un fuerte compromiso con 
 
 ---
 
-## 🌐 Redes Sociales
-📱 **WhatsApp:** [323 3904519](tel:3233904519)
-
----
-
 ## 💼 Experiencia Laboral
 
 ### **Universidad del Tolima**  
@@ -38,9 +33,11 @@ Soy una persona responsable, honesta y respetuosa, con un fuerte compromiso con 
 ---
 
 ## 📫 Contacto
+
 📍 **Ubicación:** Ibagué, Tolima, Colombia  
 📧 **Correo:** [nicolas.acunar@cun.edu.co](mailto:nicolas.acunar@cun.edu.co)  
 🔗 **GitHub:** [github.com/cunnicolasacuna](https://github.com/cunnicolasacuna)
+📱 **WhatsApp:** [323 3904519](tel:3233904519)
 
 ---
 
@@ -56,6 +53,8 @@ Soy una persona responsable, honesta y respetuosa, con un fuerte compromiso con 
 **🏀 Cómo funciona el draft de la NBA**
 
 El draft de la NBA es un evento anual en el que los equipos de la liga seleccionan jugadores jóvenes para incorporarlos a sus plantillas. Generalmente, los jugadores elegibles provienen de universidades estadounidenses, ligas internacionales o son menores de 19 años que cumplen con los requisitos de la NBA.
+
+![Draft de la NBA](https://link.nba.com/Draft-Preview)
 
 El proceso comienza con la lotería del draft, donde los equipos que no clasificaron a los playoffs tienen más probabilidades de obtener una selección temprana. Este sistema busca equilibrar la competitividad de la liga, permitiendo que los equipos más débiles adquieran a los jugadores más prometedores. La lotería determina las tres primeras selecciones, mientras que el resto se asigna según el récord de la temporada anterior, de peor a mejor.
 
