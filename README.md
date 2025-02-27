@@ -1,45 +1,56 @@
 # Nicolas Acuña Rubio
 
-## Estudiante de Ingeniería en sistemas
-
-📍 **Ubicación:** Ibagué, Tolima, Colombia  
-📧 **Correo:** [nicolas.acunar@cun.edu.co](mailto:nicolas.acunar@cun.edu.co)  
-🔗 **LinkedIn:** [(https://github.com/cunnicolasacuna)](https://github.com/cunnicolasacuna)
+## 📌 Perfil
+Estudiante de Ingeniería en Sistemas de primer semestre en la **Universidad CUN** (Corporación Unificada Nacional de Educación Superior).
 
 ---
 
-## 📄 Extracto
-Estudiante de ingeniería en sistemas, de primer semestres
+## 🌐 Redes Sociales
+📱 **WhatsApp:** [323 3904519](tel:3233904519)
+
 ---
 
-## 💼 Experiencia
+## 💼 Experiencia Laboral
 
 ### **Universidad del Tolima**  
 **Aprendiz SENA**  
-📅 *Abril de 2024 - Octubre 2024*  
-- Diseño, edición y creación de contenido visual y escrito, incluyendo videos, imágenes y documentos.
+📅 *Abril de 2024 - Octubre de 2024*  
+- Diseño, edición y producción de contenido visual y escrito, incluyendo videos, imágenes y documentos.
+
 ---
 
 ## 🎓 Educación
 
-🎓 **TÉCNICO EN INTEGRACIÓN DE CONTENIDOS DIGITALES**  
+🎓 **Técnico en Integración de Contenidos Digitales**  
 *Servicio Nacional de Aprendizaje SENA — Noviembre de 2023*
 
-🎓 **BACHILLER ACADEMICO**  
-* Colegio de San Simon 2016 - 2022*
+🎓 **Bachiller Académico**  
+*Colegio de San Simón — 2016 - 2022*
 
 ---
 
 ## 🚀 Aptitudes Principales
-- MANEJO BASICO DE HERRAMIENTAS OFIMATICAS I
-- MODELADO 3D PARA VIDEOS JUEGOS
-- INCORPARACION DE DISPOSITIVOS MULTIMEDIA COMO APOYO A LOS PROCESOS 
-FORMATIVOS
+- Manejo básico de herramientas ofimáticas
+- Modelado 3D para videojuegos
+- Incorporación de dispositivos multimedia como apoyo a los procesos formativos
 
 ---
 
 ## 📫 Contacto
 📍 **Ubicación:** Ibagué, Tolima, Colombia  
 📧 **Correo:** [nicolas.acunar@cun.edu.co](mailto:nicolas.acunar@cun.edu.co)  
-🔗 **LinkedIn:** [https://github.com/cunnicolasacuna](https://github.com/cunnicolasacuna)
+🔗 **GitHub:** [github.com/cunnicolasacuna](https://github.com/cunnicolasacuna)
+
+---
+
+## 👥 Compañeros de Trabajo
+
+| Nombre   | Usuario de GitHub      |
+|----------|-----------------------|
+| Jordi    | Dato 2                |
+| Jeferson | Dato 5                |
+
+## Ensayo sobre 
+
+
 
