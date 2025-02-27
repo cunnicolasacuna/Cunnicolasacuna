@@ -44,10 +44,10 @@ Soy una persona responsable, honesta y respetuosa, con un fuerte compromiso con 
 
 ## 👥 Compañeros de Trabajo
 
-| Nombre                  | Usuario de GitHub     |
-|----------               |-----------------------|
-| Jordi Gallego Lugo      | Dato 2                |
-| Jeferson Stiven Ducuara | Dato 5                |
+| Nombre                  | Usuario de GitHub                           |
+|----------               |---------------------------------------------|
+| Jordi Gallego Lugo      | https://github.com/Jordigallego/Jordigallego|
+| Jeferson Stiven Ducuara |(https://github.com/Jefersonducua/Jefersondu)|
 
 ## 📝 Ensayo sobre
 
